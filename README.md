@@ -1,1 +1,1 @@
-This is basic readme file.
+In this repository I am testing the login, registration and buying an item functionality.
